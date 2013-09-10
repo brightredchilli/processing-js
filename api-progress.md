@@ -419,6 +419,8 @@ See [API page](https://github.com/lmccart/processing-js/blob/master/api.md) for 
 + __lerp__
 + __angleBetween__
 + __array__
++ __random2D__
++ __random3D__
 
 
 ####Operators
